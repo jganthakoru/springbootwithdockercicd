@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootwithcicdApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootwithcicdApplication.class, args)
+		SpringApplication.run(SpringbootwithcicdApplication.class, args);
 	}
 
 }
